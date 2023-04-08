@@ -26,11 +26,12 @@ is_active
 linkedin_url
 profile_image_url
 
-mentor_mentee
--------------
+transaction
+-----------
 id
 mentor_id
 mentee_id
+price
 period_start
 period_end
 created_at
@@ -40,8 +41,7 @@ is_active
 complaint
 ---------
 id
-created_by
-is_mentor
+email
 detail_complaint
 created_at
 updated_at
