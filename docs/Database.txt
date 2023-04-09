@@ -13,6 +13,7 @@ is_active
 linkedin_url
 profile_image_url
 price
+password
 
 mentee
 ------
@@ -26,6 +27,7 @@ updated_at
 is_active
 linkedin_url
 profile_image_url
+password
 
 mentor_category
 ---------------
